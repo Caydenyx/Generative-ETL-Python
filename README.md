@@ -1,5 +1,3 @@
-Com certeza, vou adicionar essa informação ao início do texto:
-
 # Desafio: Explorando IA Generativa em um Pipeline de ETL com Python
 
 **Projeto: Gerador de Mensagens para Mitsubishi Manaus com IA**
